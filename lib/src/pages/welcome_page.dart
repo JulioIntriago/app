@@ -1,6 +1,5 @@
 import 'dart:ui';
 
-import 'package:app/src/pages/forgot_password.dart';
 import 'package:app/src/pages/login_page.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/services.dart';

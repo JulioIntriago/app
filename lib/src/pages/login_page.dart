@@ -1,5 +1,4 @@
 import 'package:app/src/colors/colors.dart';
-import 'package:app/src/pages/forgot_password.dart';
 import 'package:flutter/material.dart';
 //COLORS
 

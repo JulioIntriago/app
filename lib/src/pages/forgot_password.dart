@@ -1,5 +1,3 @@
-import 'dart:js';
-
 import 'package:app/src/pages/welcome_page.dart';
 import 'package:app/src/widgets/back_button.dart';
 import 'package:flutter/material.dart';
